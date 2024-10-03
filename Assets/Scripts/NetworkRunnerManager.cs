@@ -37,7 +37,6 @@ public class NetworkRunnerManager : MonoBehaviour
         {
             m_runner.Spawn(robo, inputAuthority: player);
         }
-       
     }
     public async void StartGame()
     {
